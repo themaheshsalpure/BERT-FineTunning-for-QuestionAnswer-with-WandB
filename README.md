@@ -32,5 +32,5 @@ With W&B, experiment configurations and results are stored in a centralized dash
 Using W&B in conjunction with BERT fine-tuning enhances the project's transparency, reproducibility, and efficiency in analyzing and improving the model's performance.
 
 ## Contributors:
-Mahesh Salpure
+Mahesh Salpure  
 Mail : maheshsalpure171@gmail.com
